@@ -6,6 +6,7 @@
 /*assigning background pattern to entire webpage*/
 body {
     background-image: url(../../interlaced/interlaced/interlaced.png);
+    margin: 0px;
 }
 
 /*top strip with name + directory*/
