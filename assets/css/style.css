@@ -75,10 +75,11 @@ html, body {
 /*main content style*/
 #content {
     background-color: #ffffff;
-    max-width: 920px;
+    max-width: 916px;
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
+    border: 2px solid #dddddd;
 }
 
 /*title of content section style*/
